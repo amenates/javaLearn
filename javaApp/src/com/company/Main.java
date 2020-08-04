@@ -35,6 +35,7 @@ public class Main {
         // получение информации от пользователя
         Scanner str = new Scanner(System.in);
         System.out.println("Вы ввели: " + str.nextLine());
+        System.out.println("Hello");
 
     }
 }
