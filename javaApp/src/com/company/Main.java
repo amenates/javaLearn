@@ -36,6 +36,7 @@ public class Main {
         Scanner str = new Scanner(System.in);
         System.out.println("Вы ввели: " + str.nextLine());
         System.out.println("Hello");
+        System.out.println("Проверка");
 
     }
 }
