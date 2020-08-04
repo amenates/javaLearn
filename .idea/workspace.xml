@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03eb20f5-ebc1-43c5-9862-af4b227cc0df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/firstJava/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstJava/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstJava/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstJava/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstJava/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstJava/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstJava/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstJava/firstJava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstJava/out/production/firstJava/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstJava/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaApp" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,10 +33,15 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2659" y="261" key="FileChooserDialogImpl" timestamp="1596552084360">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="418" y="211" width="1084" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596552859122">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="418" y="211" width="1084" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1596552859122" />
+    <state x="739" y="290" width="426" height="479" key="FileChooserDialogImpl" timestamp="1596552865610">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="2659" y="261" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596552084360" />
+    <state x="739" y="290" width="426" height="479" key="FileChooserDialogImpl/0.25.1920.1055@0.25.1920.1055" timestamp="1596552865610" />
     <state x="2262" y="140" key="new project wizard" timestamp="1596552096008">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
